@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kirp
 - 👀 I’m interested in gaming, game development and coding cool things
-- 🌱 I’m currently learning Unity and Python
-- 📫 Twitter: 
+- 🌱 Im currently torn between Unity and Godot
+- 📫 Mastodon: @Kirp@peoplemaking.games
 
 <!---
 Kirp/Kirp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
