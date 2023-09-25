@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kirp
 - 👀 I’m interested in gaming, game development and coding cool things
-- 🌱 Im currently torn between Unity and Godot
+- 🌱 Godot it is then
 - 📫 Mastodon: @Kirp@peoplemaking.games
 
 <!---
