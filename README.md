@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Kirp
 - 👀 I’m interested in gaming, game development and coding cool things
 - 🌱 Godot it is then
-- 📫 Mastodon: @Kirp@peoplemaking.games
 
 <!---
 Kirp/Kirp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
